@@ -1,0 +1,12 @@
+{
+    "status": {
+        "msg": "成功",
+        "code": 200
+    },
+    "data": [
+        "cxy1",
+        "cyx2",
+        "cyx3"
+    ],
+    "ok": true
+}
